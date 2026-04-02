@@ -3,7 +3,7 @@ Manual QA Tester, learning test automation
 
 ## 🌱 Currently learning
 - Python for automated testing  
-- Test automation (Selenium, Pytest, API testing)
+- Test automation (Selenium, Pytest, API testing, UI testing)
 
 ## 👯 Looking to collaborate on
 - Test automation and QA projects  
